@@ -1,0 +1,5 @@
+$ git config --global user.name "[PVF]"
+$ git config --global user.email "[PVF722@GMAIL.COM]"
+$ git config --global color.ui auto.
+$ git init [http://github.cpm/PARABLEYIELDS-unknowm-business/github.com]
+$ git clone [http://github.com/parableyields-unknown-business/github.com]
